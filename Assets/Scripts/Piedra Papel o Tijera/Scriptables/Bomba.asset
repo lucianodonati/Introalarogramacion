@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a8db0a7c118475282d8c5e54d0983f0, type: 3}
+  m_Name: Bomba
+  m_EditorClassIdentifier: 
+  elementName: 
+  strongAgainst:
+  - {fileID: 11400000, guid: 49534758d81cd374ca6acd4a3250a1be, type: 2}
+  - {fileID: 11400000, guid: 9529fa49a338ec240b249b05a13e7f57, type: 2}
+  - {fileID: 11400000, guid: fd0fe4fd4066fcf409603ccb33b5dd36, type: 2}
+  - {fileID: 11400000, guid: a67a5e8bfe6bfa447a33fea1690daafc, type: 2}
+  - {fileID: 11400000, guid: 64afee7d7f1833443ac5f30c548a570d, type: 2}
+  - {fileID: 11400000}
